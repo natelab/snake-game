@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|c:\\users\\user\\documents\\programming\\projects\\c# and asp.net\\snake game\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|solutionrelative:settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Snake Game||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C756752-B80C-40C2-857C-EE2D5BECF7EB}|Snake Game.csproj|solutionrelative:input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Settings.cs",
+              "RelativeDocumentMoniker": "Settings.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Settings.cs",
+              "RelativeToolTip": "Settings.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:28:10.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T12:21:04.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Snake Game",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Snake Game.csproj",
+              "RelativeDocumentMoniker": "Snake Game.csproj",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Snake Game.csproj",
+              "RelativeToolTip": "Snake Game.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-02T10:38:38.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:35:35.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Input.cs",
+              "RelativeDocumentMoniker": "Input.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Input.cs",
+              "RelativeToolTip": "Input.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:28:34.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T10:24:33.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Programming\\projects\\c# and ASP.NET\\Snake Game\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:46:58.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

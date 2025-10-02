@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\Programming\projects\c# and ASP.NET\Snake Game\bin\Debug\Snake Game.exe.config
+C:\Users\USER\Documents\Programming\projects\c# and ASP.NET\Snake Game\bin\Debug\Snake Game.exe
+C:\Users\USER\Documents\Programming\projects\c# and ASP.NET\Snake Game\bin\Debug\Snake Game.pdb
+C:\Users\USER\Documents\Programming\projects\c# and ASP.NET\Snake Game\obj\Debug\Snake Game.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Programming\projects\c# and ASP.NET\Snake Game\obj\Debug\Snake_Game.Form1.resources
+C:\Users\USER\Documents\Programming\projects\c# and ASP.NET\Snake Game\obj\Debug\Snake Game.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Programming\projects\c# and ASP.NET\Snake Game\obj\Debug\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Programming\projects\c# and ASP.NET\Snake Game\obj\Debug\Snake Game.exe
+C:\Users\USER\Documents\Programming\projects\c# and ASP.NET\Snake Game\obj\Debug\Snake Game.pdb
